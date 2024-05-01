@@ -1,0 +1,17 @@
+.p {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+div#ide{
+    font-size:36px;
+    color:blue;
+}
+#ident {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+.p.cool{
+    font-size:24px;
+
+}
